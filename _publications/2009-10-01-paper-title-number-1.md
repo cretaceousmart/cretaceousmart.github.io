@@ -1,15 +1,26 @@
 ---
-title: "Paper Title Number 1"
+title: "An RP-Aided Pearson-Fisher Chi-square Approach to Testing
+Goodness-of-fit for Location-scale Distributions
+"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/fyp_thesis
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2021-06-30
+venue: 'Journal of Statistical Computation and Simulation'
+paperurl: 'http://cretaceousmart.github.io/files/lijie_fpy.pdf'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+The classical Pearson-Fisher chi-square test is a general approach to testing
+goodness-of-fit for univariate data. There is a considerable amount of discussion on how to effectively apply this test to practical goodness-of-fit problems
+in the literature. There are two major types of discussions: the number of
+grouping intervals and the selection of grouping intervals. In this paper, we
+apply the idea of representative points (RP) of statistical distributions to the
+selection of grouping intervals for the classical Pearson-Fisher chi-square test.
+We focus on the location-scale distributions due to their simple distributional
+structure. Special attention is paid to the three types of location-scale distributions: normal, Laplace, and the logistic distributions. Monte Carlo simulation shows that the RP-aided Pearson-Fisher test outperforms the traditional
+equiprobable Pearson-Fisher test in most cases under study. Some examples
+with real data are illustrated for practical application.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](http://cretaceousmart.github.io/files/lijie_fpy.pdf)
+[Download the poster here](http://cretaceousmart.github.io/files/lijie_fpy_poster.pdf)
+
