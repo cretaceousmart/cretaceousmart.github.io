@@ -1,7 +1,7 @@
 ---
 title: 'Some of my water colour painting'
 date: 2019-06-30
-permalink: /posts/water_print.md/
+permalink: /posts/water_print/
 tags:
   - Water Colour
   - Art
