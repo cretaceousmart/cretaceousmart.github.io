@@ -59,19 +59,8 @@ Internship
   * Self-learned and mastered the application of Python, used Pandas/Scipy/Numpy and other data processing packages for data analysis, and mastered the basic usage of MongoDB and the processing methods of various data categories;
   * Adopted Tushare and other API ports to obtain the required data, and stored the data into the internal server of the company to assist the quantitative researchers in writing the code of stock quantitative trading strategy.
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
-
 Publications
 ======
   <ul>{% for post in site.publications %}
