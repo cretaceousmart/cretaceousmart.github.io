@@ -1,5 +1,5 @@
 ---
-title: 'London Picese'
+title: 'London Pieces'
 date: 2022-02-01
 permalink: /posts/2022/2/photography/
 tags:
