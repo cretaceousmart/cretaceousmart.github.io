@@ -8,7 +8,6 @@ tags:
 
 
 This bolg share some of my photography in London. More photo can be found in my [instergrame](https://www.instagram.com/cretaceous3/)
-[Click here](https://thunder-ixia-205.notion.site/My-processing-work-e4819a89a505482984e1f25899ec780c)
 
 ======
 ![643dd91112aa0c902e8c3ab78465b92](https://user-images.githubusercontent.com/48281792/155887750-84c93c7d-0b68-4281-8c03-5f52943e575a.jpg)
