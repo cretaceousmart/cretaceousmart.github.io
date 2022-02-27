@@ -1,5 +1,5 @@
 ---
-title: 'Paris Picese'
+title: 'Paris Pieces'
 date: 2022-03-01
 permalink: /posts/2022/2/photography-2/
 tags:
