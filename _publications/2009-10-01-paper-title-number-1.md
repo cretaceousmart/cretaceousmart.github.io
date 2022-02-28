@@ -1,10 +1,10 @@
-1111---
+---
 title: "An RP-Aided Pearson-Fisher Chi-square Approach to Testing
 Goodness-of-fit for Location-scale Distributions
 "
 collection: publications
 permalink: /publication/fyp_thesis
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is my first paper of Goodness-of-fit test.'
 date: 2021-06-30
 venue: 'Journal of Statistical Computation and Simulation'
 paperurl: 'http://cretaceousmart.github.io/files/lijie_fpy.pdf'
