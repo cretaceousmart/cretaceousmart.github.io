@@ -12,26 +12,58 @@ redirect_from:
 Education
 ======
 * M.S. University College London, MSc. Data Science , 09/2021-Now
-  * Study computational statistics and machine learning, Acceptance Rate 3%
-  * Course (taught by UCL Gatsby unit): Probabilistic unsupervised learning, Advance machine learning, Reinforce Learning
-  * Other Course: Graphical model, Bayesian learning, Natural Language Processing, Applied machine learning, ect
-
+  * Course: Applied machine learning, Probabilistic unsupervised learning, Machine Learning with Kernel Method, 
+Bayesian ML, Causal Inference, Reinforce Learning, Graphical model, Computer Vision, etc. 
+  * Postgraduate thesis: ‘Which model is best?’ Relative goodness of fit test with kernel, collaborate with François-Xavier 
+Briol (leader of Allen-Turing Institute).
 
 * B.S. United International College, Beijing Normal Univ.-Hong Kong Baptist Univ.(UIC), Zhuhai, China 09/2017-06/2021\
   * Major: Statistics : sGPA: 3.93/4.0 (cGPA: 3.45/4.0) , first class degree 
-  * Honors: First Grade Scholarship; Provincial Second Grade Prize in 2019 National Mathematical Modeling Contest
+  * Honors: First Grade Scholarship; Second Prize in 2019 National Mathematical Modeling Competition
+  * Course: Deep Learning (Marked A), Multivariate Statistics (A), Time-Serious Analysis(A) and other CS courses.
+  * Final Year Project: Application of Representative Point in Goodness-of-fit Test (As described below).
+
 
 * Exchange. Simon Fraser University, (SFU), Overseas Exchange Program, Vancouver, Canada 07/2019-08/2019
   * Courses: Film Making (Excellent), Fashion Business (Excellent)
 
+Internship
+======
+**Hong Kong Baptist University Statistical department Zhuhai, China**
+Research Assistant with Prof. Xiaoling Peng (R, MATLAB) 06/2020-06/2021
+**Project 1:** Application of Representative Point in Goodness-of-fit Test
+* Co-Supervised by Professor Kai-Tai Fang, (Fellowship of USA Statistical Association)
+* Aimed to improve traditional model evaluation method using “Mean-Square-Error Representative Points”;
+* The new method achieved state-of-the-art testing power (20% increased) compare with other Chi-square tests.
+* Made several academic talks in seminar and submitted a SCI paper to Mathemetics (Q1 and top 10%)
+
+**Project 2:** Face Image Generation and Style Transfer with Deep Learning. (Python: PyTorch, NumPy, Pandas)
+* Aimed to generate fake human face images by generative model and then apply the Style-Transfer algorithm.
+* For face generation: Applied Generative Adversarial Network(Cycle-GAN, Style-GAN,W-GAN) and VAE.
+* For Style Transfer: Applied Gaty’s method(2015), the performance is shown in my Tech-blog. 
+* Used more than 200k images from CelebA dataset for model training and used IS & FID as evaluate criteria.
+
+
+**Wu He Assets Foshan, China**
+  Quantitative Research Department, Quantitative Researcher (R, Python, SQL, MongoDB) 07/2018-09/2018
+  * Responsibility: Maintained the database of company, Mathematics modeling for asset price and Risk control.
+  * Data management: Adopted Tushare(python library) to obtain the required data, and stored the data into the internal 
+server of the company by using SQL and MongoDB.
+  * Data Analysis: Use R and Python (Pandas/SciPy/NumPy) to implement Time series models (ARIMA, GARCH) and 
+Machine learning models (RNN, LSTM).
+  * Learn financial knowledge from. Financial Risk Manager(FRM) certificate.
+  
+  
+
 Research
 ======
-* ‘Which model is best?’ Relative goodness of fit testing with kernels, Post-graduation Thesis 01/2021-Now 
+* ‘Which model is best?’ Relative goodness of fit testing with kernels, Post-graduation Thesis 3/2022-Present
 
-   Supervised by Francois-Xavier Brio, an young but internationally renowned computer scientist
-  * Extend the existing kernel-based relative goodness-of-fit tests to the composite problem. 
+   Supervised by Professor Francois-Xavier Briol, leader of Allen Turing Institute
+  * Based on Kernel Stein Distance(KSD) and Parametric bootstrap, extend the existing kernel-based relative test.
+  * Enable the model choose a property parametric family.
   * Implementing the tests and evaluating their performance on a selection of model families.
-  * Found great improvement and prepare to submit a paper to NIPS2022
+  * Found great improvement and prepare to submit a paper to NIPS2023
 
 * Application of Representative Point in Goodness-of-fit Test, Graduation Thesis 06/2020-06/2021
 
@@ -53,11 +85,7 @@ Research
   * Made a literature review and comparison for several main algorithm of Style transfer from Gaty’s method(2015) to Cycle-GANs(2018), and implemented each method by Pytorch;
   * Transferred the style of Van Gogh to some photos of my school, which was well received by teachers and classmates
 
-Internship
-======
-* Wuhe Assets, Quantitative Research Department, Quantitative Researcher, Foshan, China 08/2018
-  * Self-learned and mastered the application of Python, used Pandas/Scipy/Numpy and other data processing packages for data analysis, and mastered the basic usage of MongoDB and the processing methods of various data categories;
-  * Adopted Tushare and other API ports to obtain the required data, and stored the data into the internal server of the company to assist the quantitative researchers in writing the code of stock quantitative trading strategy.
+
 
 
   
